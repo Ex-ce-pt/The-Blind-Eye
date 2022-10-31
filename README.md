@@ -4,3 +4,6 @@ Platformer/puzzle game. You are an old blind man who was captured by a wizard an
 
 = Most likely will not be submitted in time =
 Will be made in Unity (after the competition ends)
+
+How to run:
+It's a Svelte project. Open the folder, install dependencies, run `public/index.html`
